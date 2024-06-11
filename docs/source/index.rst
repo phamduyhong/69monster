@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+69VN ✔ TRANG CÁ CƯỢC SỐ 1 | ĐĂNG KÝ, ĐĂNG NHẬP TẠI 69VN.MONSTER
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`69VN <https://69vn.monster/>`_ luôn nằm trong top các nhà cái uy tín và xanh chín nhất trong năm 2024. Sân chơi cung cấp đến thành viên của mình hàng loạt các tựa game đổi thưởng khác nhau để có thể lựa chọn. Không chỉ vậy, nhà cái còn có nhiều khuyến mãi lớn nhỏ khác nhau cho người chơi gia tăng vốn chơi của mình.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ:
 
-.. note::
+Địa chỉ: 56 Bà Hom, Phường 13, Quận 6, Thành phố Hồ Chí Minh
 
-   This project is under active development.
+Phone: 0924573388
 
-Contents
---------
+Email: cskh69vn@gmail.com
 
-.. toctree::
+Website: https://69vn.monster/
 
-   usage
-   api
+Map: https://maps.app.goo.gl/dLUEhsaXHyy7SNHy7
+
+#69vn #nhacai69vn #cacuoc69vn #giaitri69vn #trangchu69vn
